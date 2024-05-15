@@ -129,5 +129,6 @@ f.Select the enable button and click apply and then click ok.
 **NOR SIMULATION WITH SPECTRA**
 
 ![image](https://github.com/Siva1309/VLSI-LAB-EXP-6/assets/166374356/0db4f1e4-40f4-4045-a7d7-b405a8d41bbf)
+
 **RESULT**
 Thus the schematic entry and simulation of CMOS inverter, CMOS NAND and CMOS NOR using CADENCDE TOOL circuits are designed and the truth tables is verified using Quartus software
